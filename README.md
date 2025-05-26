@@ -54,7 +54,7 @@ A test suite is included in `test_logger.py` to validate the main functions.
 
 ### To run the tests:
 
-Ensure you are in the same directory as `logger.py` and `test_logger.py`, then run:
+Ensure you are in the same directory as `log_monitor.py` and `test_logger.py`, then run:
 
 ```bash
 python -m unittest test_logger.py
