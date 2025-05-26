@@ -47,3 +47,15 @@ Example:
 - Python 3.x
 
 No external libraries required.
+
+## Running Tests
+
+A test suite is included in `test_logger.py` to validate the main functions.
+
+### To run the tests:
+
+Ensure you are in the same directory as `logger.py` and `test_logger.py`, then run:
+
+```bash
+python -m unittest test_logger.py
+```
